@@ -1,0 +1,12 @@
+.alert {
+    border-radius: 10px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.alert-text {
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: 100;
+}

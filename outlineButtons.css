@@ -1,0 +1,104 @@
+.beautify {
+  border: none;
+  padding: 10px;
+  color: white;
+  width: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-outline-red {
+  background: transparent;
+  border: 2px solid #f71b1b;
+  color: black;
+}
+.btn-outline-orange {
+  background: transparent;
+  border: 2px solid #f77b1b;
+  color: black;
+}
+.btn-outline-yellow {
+  background: transparent;
+  border: 2px solid #f7e11b;
+  color: black;
+}
+.btn-outline-green {
+  background: transparent;
+  border: 2px solid #1bf74b;
+  color: black;
+}
+.btn-outline-blue {
+  background: transparent;
+  border: 2px solid #4287f5;
+  color: black;
+}
+.btn-outline-purple {
+  background: transparent;
+  border: 2px solid #f542c5;
+  color: black;
+}
+
+@keyframes red- {
+    from {background: transparent;}
+    to {background: #f71b1b; color: white;}
+}
+
+@keyframes orange- {
+    from {background: transparent;}
+    to {background: #f77b1b; color: white;}
+}
+
+@keyframes yellow- {
+    from {background: transparent;}
+    to {background: #f7e11b; color: white;}
+}
+
+@keyframes green- {
+    from {background: transparent;}
+    to {background: #1bf74b; color: white;}
+}
+
+@keyframes blue- {
+    from {background: transparent;}
+    to {background: #4287f5; color: white;}
+}
+
+@keyframes purple- {
+    from {background: transparent;}
+    to {background: #f542c5; color: white;}
+}
+
+.btn-outline-red:hover {
+    animation: red- 1s 1;
+    background: #f71b1b; color: white;
+}
+
+.btn-outline-orange:hover {
+    animation: orange- 1s 1;
+    background: #f77b1b; color: white;
+}
+
+.btn-outline-orange:hover {
+    animation: orange- 1s 1;
+    background: #f77b1b; color: white;
+}
+
+.btn-outline-yellow:hover {
+    animation: yellow- 1s 1;
+    background: #f7e11b; color: white;
+}
+
+.btn-outline-green:hover {
+    animation: green- 1s 1;
+    background: #1bf74b; color: white;
+}
+
+.btn-outline-blue:hover {
+    animation: blue- 1s 1;
+    background: #4287f5; color: white;
+}
+
+.btn-outline-purple:hover {
+    animation: purple- 1s 1;
+    background: #f542c5; color: white;
+}

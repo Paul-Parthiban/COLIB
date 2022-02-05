@@ -1,0 +1,30 @@
+.navbar {
+  overflow: hidden;
+  position: relative;
+}
+
+.navbar #nav-links {
+  display: none;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a.icon {
+  float: right;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #dfdfdfcc;
+  color: white;
+}

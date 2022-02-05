@@ -1,0 +1,27 @@
+.b-input-red {border:none; border-bottom: 2px solid #f71b1b;}
+.b-input-orange {border:none; border-bottom: 2px solid #f77b1b;}
+.b-input-yellow {border:none; border-bottom: 2px solid #f7e11b;}
+.b-input-green {border:none; border-bottom: 2px solid #1bf74b;}
+.b-input-blue {border:none; border-bottom: 2px solid #4287f5;}
+.b-input-purple {border:none; border-bottom: 2px solid #f542c5;}
+
+.input-red {border: 2px solid #f71b1b; border-radius: 4px;}
+.input-orange {border: 2px solid #f77b1b; border-radius: 4px;}
+.input-yellow {border: 2px solid #f7e11b; border-radius: 4px;}
+.input-green {border: 2px solid #1bf74b; border-radius: 4px;}
+.input-blue {border: 2px solid #4287f5; border-radius: 4px;}
+.input-purple {border: 2px solid #f542c5; border-radius: 4px;}
+
+.b-input-red:focus {outline: none;}
+.b-input-orange:focus {outline: none;}
+.b-input-yellow:focus {outline: none;}
+.b-input-green:focus {outline: none;}
+.b-input-blue:focus {outline: none;}
+.b-input-purple:focus {outline: none;}
+
+.input-red:focus {outline: none;}
+.input-orange:focus {outline: none;}
+.input-yellow:focus {outline: none;}
+.input-green:focus {outline: none;}
+.input-blue:focus {outline: none;}
+.input-purple:focus {outline: none;}

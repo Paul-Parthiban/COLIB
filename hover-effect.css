@@ -1,0 +1,89 @@
+.hvr-red:hover {
+  animation: redc 2s 1;
+  background: #f71b1b;
+  cursor: pointer;
+}
+
+.hvr-orange:hover {
+  animation: orangec 2s 1;
+  background: #f77b1b;
+  cursor: pointer;
+}
+
+.hvr-yellow:hover {
+  animation: yellowc 2s 1;
+  background: #f7e11b;
+  cursor: pointer;
+}
+
+.hvr-green:hover {
+  animation: greenc 2s 1;
+  background: #1bf74b;
+  cursor: pointer;
+}
+
+.hvr-blue:hover {
+  animation: bluec 2s 1;
+  background: #4287f5;
+  cursor: pointer;
+}
+
+.hvr-purple:hover {
+  animation: purplec 2s 1;
+  background: #f542c5;
+  cursor: pointer;
+}
+
+@keyframes redc {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #f71b1b;
+  }
+}
+
+@keyframes orangec {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #f77b1b;
+  }
+}
+
+@keyframes yellowc {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #f7e11b;
+  }
+}
+
+@keyframes greenc {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #1bf74b;
+  }
+}
+
+@keyframes bluec {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #4287f5;
+  }
+}
+
+@keyframes purplec {
+  from {
+    background: no-repeat;
+  }
+  to {
+    background: #f542c5;
+  }
+}

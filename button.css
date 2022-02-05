@@ -1,0 +1,23 @@
+.beautify {
+  border: none;
+  padding: 10px;
+  color: white;
+  width: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-red { background: #f71b1b; }
+.btn-orange { background: #f77b1b; }
+.btn-yellow { background: #f7e11b; }
+.btn-green { background: #1bf74b; }
+.btn-blue { background: #4287f5; }
+.btn-purple { background: #f542c5; }
+
+.btn-red:hover { background: #da0101; }
+.btn-orange:hover { background: #db6002; }
+.btn-yellow:hover { background: #d8c200; }
+.btn-green:hover { background: #00d62e; }
+.btn-blue:hover { background: #0053da; }
+.btn-purple:hover { background: #dd00a2; }
+

@@ -1,0 +1,23 @@
+.alert-red {
+  background: rgba(247, 29, 29, 0.644);
+}
+
+.alert-orange {
+  background: rgba(247, 122, 27, 0.644);
+}
+
+.alert-yellow {
+  background: rgba(247, 225, 27, 0.644);
+}
+
+.alert-green {
+  background: rgba(27, 247, 75, 0.644);
+}
+
+.alert-blue {
+  background: rgba(66, 135, 245, 0.644);
+}
+
+.alert-purple {
+  background: rgba(245, 66, 197, 0.644);
+}
